@@ -3,10 +3,10 @@
 
 
 
-import cv2
+
 import numpy as np
 import streamlit as st
-
+import cv2
 # Function to create VideoCapture objects for each camera
 def create_video_captures(urls):
     return [cv2.VideoCapture(url) for url in urls]
