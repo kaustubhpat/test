@@ -1,4 +1,4 @@
 pip
 streamlit==1.0.0
-opencv-python==4.5.3.56
+opencv-python-headless<4.3
 Pillow==8.3.2
