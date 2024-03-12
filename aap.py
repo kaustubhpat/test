@@ -1,4 +1,4 @@
-import CV2
+import cv2
 import numpy as np
 
 # Get the number of cameras from the user
